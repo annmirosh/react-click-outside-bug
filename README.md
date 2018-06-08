@@ -1,1 +1,1 @@
-Test repository for reproducing this bug: 
+Test repository for reproducing this bug: https://github.com/kentor/react-click-outside/issues/39
